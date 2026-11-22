@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/home/bhuvan/Desktop/llm/lang-chain-practice/langchain-course/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/.venv/lib/python3.13/site-packages"
+  ]
+}
